@@ -5,4 +5,4 @@ deploy:
   local-dir: ./src/
   keep-history: false
   on:
-    branch: main
+    branch: master
